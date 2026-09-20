@@ -5,3 +5,6 @@ dist/
 !.env.example
 coverage/
 *.log
+.vscode/
+.DS_Store
+.github/
